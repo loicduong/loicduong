@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Front-end+Developer&center=true&vCenter=true" />
 </p>
 
-<img src="./img.png" width="495" />
+<p align="center">
+  <img src="./img.png" width="495" />
+</p>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=loicduong)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=loicduong" />
+</p>
