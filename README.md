@@ -1,16 +1,9 @@
-<p align="center">
-  <h1 align="center">Loic Duong</h1>
-</p>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Loic Duong
+=========================================================================================================================
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Front-end+Developer&center=true&vCenter=true" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+Front-end+Developer&vCenter=true" />
 
-<p align="center">
-  <img src="./img.png" width="495" />
-</p>
+<img src="./img.png" width="495" />
 
 ## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=loicduong" />
-</p>
+<img src="https://streak-stats.demolab.com?user=loicduong" />
